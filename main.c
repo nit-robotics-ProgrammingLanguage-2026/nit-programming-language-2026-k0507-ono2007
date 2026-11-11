@@ -14,7 +14,7 @@ int main(void)
         printf("B");
     else if (input >= 60)
         printf("C");
-    else if (input > 1)
+    else if (input >= 1)
         printf("D");
     else if (input == 0)
         printf("/");
